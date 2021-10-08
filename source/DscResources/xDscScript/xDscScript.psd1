@@ -90,7 +90,7 @@
             # Tags = @()
 
             # A URL to the license for this module.
-            LicenseUri = 'https://github.com/anwather/xDscScript/LICENCE'
+            LicenseUri = 'https://github.com/anwather/xDscScript/blob/main/LICENCE'
 
             # A URL to the main website for this project.
             ProjectUri = 'https://github.com/anwather/xDscScript'
